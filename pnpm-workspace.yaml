@@ -13,10 +13,10 @@ catalog:
   # rimraf@6 requires node 20 or >=22
   rimraf: "^5.0.10"
   typescript: "^5.7.2"
-  undici: "^5.28.5"
-  vitest: "~3.0.5"
-  vite: "^5.4.14"
-  "ws": "8.18.0"
+  undici: "^6.27.0"
+  vitest: "~3.2.6"
+  vite: "^6.4.3"
+  "ws": "8.21.0"
 
 catalogs:
   vite-plugin:
